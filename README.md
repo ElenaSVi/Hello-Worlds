@@ -1,2 +1,2 @@
 # Hello-Worlds
-try to understans this program
+I just try to understans this program.
